@@ -1,0 +1,459 @@
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "b431cf4556a09f6b6b86e1eed44a6d2024964970"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[mrfDepth.download]]
+    sha256 = "e455ca6321ee6197c4b9f050b19f11a55d5e5a32e62ab73e0fb2f650625e749d"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "6102e76390410eaf4e92767f6730ea67e95796be"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "a022d55688ac75a4fbfa147bda4576540b19ddd471af6d2b1ea1deef72c3f5b6"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "2200786db2c27e4b9f7809829540729663885efe"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "cda6e0292b6db1e1021fca1b31cd33da7d42da2d88ce053ba166a2eb021043d2"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "c5498b8cd495afb174635b432366afbfb9d689e1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "bf86e9796f15364d1b5618fcebd34551a6d0461cb9f75fb08e9d6a4f1e749e82"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "6b3f9cd6f057d1e75390efb34721de1fa4e039c9"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "5069cee9d8ab9efbf6049a040026d9782c83fef99a9bcd44ef26a9f14e0011e2"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-musl-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "4c71fb6afad5c3bfc23378ff4eda712da4446fdd"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "7a037a97813922a1ad3184a8e0f2ff0f26d800cfda2a8f3f4255dd09bbb48fd9"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-musl-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "e13905b7e0e4698a267f2454340f269c83331df9"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "3f27324885997081690315527178e416f6c66162cd98576109195d5f38f870d7"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-musl-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c3321e50629bb9d0f40783e6dc44d47e11b177db"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "f6843a79d3722f3231e032f89c495327755af470cbabbdef5732687414f320ad"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1d176026f6e8fca268cc3efe479524eebfc4f652"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "8d5e2cda6e1c89aa44f15e8a1503f2a10609ab3761a370886bf8f0f19714010e"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4325e8dc5bfc6da2c2e39691a484b19b23fc72b7"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "838c83e3d759c151243949dca02e4a093a5d53029ba2725367c2c96f5d261f58"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3c6add95a440b776e39fce7072540874effd4db8"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "218fee0a6a05c83cde94bf6176688a037b2233ad69b81847bfffb18efbf7ac27"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "985523b9dbe7586446915078c773104ecceaf0cd"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "c325a76296410fa999d351fad36e11c0e9a232042d9a6d9e407a02eb3aa7813d"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9cb6b6689028455003b2149bc74bfb5a9d615fe5"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "f7d377e3d46c7ef1482033817e9dc9bf1556325fb06be054a93f484be3c6db13"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7d7ee3f60ef9aa2b372f0882b365d671915d74e3"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "ba6e07593c733a863bd990e92174806c0e1e48bb31cbd65ffd44c9b61ea77585"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2e3ce1b4b7fb656d16b143717c19c750dcbe64b6"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "adf96573b809fd8f79200d37c5e79a67fb7bf79b4f98b13c370c2d18bde0d920"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "46e8640cbce6f5995053e9cad8c74b109210602e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "8c5d1b584c652c9b0cac6268eccaab5ff564e18d32526cbb66b8109affbeeb69"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0aba06b383dd9d8d98d336eb2f18370cf0b33221"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "3b6adefd74bb99ecc2874512a6c4f9678d052b5a83db5401dab862c773749867"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c8fce82ca65e9b03b88c1400c0d7cb8a3351a39e"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "bf2b06662b09a6ebd43f287a5c9dfe8b9d58a6bd119d3642fe927af970ad3ba8"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "35e59405e27f52ef4c4dd6c2cf9e44a2e9eb8602"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "488b12d4b0a6c205c708d8e2f45dd3011364f3e57ad8b0e8793a35c8cdfca6b8"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "8b4610404293a6f0f9f6680df314a1b399a758ad"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "a730e4ce1dafe9b3b69c35ab84458c0444f2bf5b14398461658e0629ff3bf90f"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-gnu-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "4a18a327af5a197f6bbf36a826662544890b94d0"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "3c0292ab9a37cbff36507d937d80cc6fd8aec2102dc8c55473bbb190be5e1e76"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-gnu-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "a35aa21c80a2ffc80724b046a157ca990383b2f8"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "dfbb9317974ffed5534c490ac51ac7d409c66794a800a0290230320a57417326"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-gnu-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "973b91d55fa77f709bda23544413f2fcd8c77ac4"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "bd882168652663f761a1fad0eb0859b52e8a29b9e13ecf87856cd38473687d5e"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-musl-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "01152d80782b3d49c8deb85b1bba072036250c7c"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "9287af47b431edefa4a343322f640b916915335b7bef272ceca2d138949a6fb4"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-musl-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "c68a0e700d304551fe837640969b076ba94ab540"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "db10f750075e9271bd827925f1c1e4613d7f8d682b96e264bb33529802009341"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-musl-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "dcd2172fd1b337ae4b8dbbade846f046a09f1e18"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "08f825e35758b8d63714065e5e9033e05d1269cbb499beab4b4a0d0022ebc6d6"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-w64-mingw32-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "e6d05cd82201ea5ac14a68738535468c48e6ece0"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "8bb55b11aac331bc3b1886d12e4cf039b855cfd9055d60b6429799feecc110ed"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-w64-mingw32-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "28573d79c4ead835aa5e8aca20159d25c029ba8f"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "264a2673f289cc03e310bf8856880623c8efb75d988a533c438dcdb9bf0365ba"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-w64-mingw32-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "powerpc64le"
+git-tree-sha1 = "b14bf47723db4329e857cb9a7e31fccaede82ea6"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "564450aac1ee33df758640fc37e7c75498c26045c605855da7be7399cd2785c5"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "powerpc64le"
+git-tree-sha1 = "53d2fe6e2e6a411d78cdaa3dd3ba8f91240c61b5"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "bc84838b49d7653ced7e1f3fff983b65c62f90a5ba3de6201db7926fdf83393c"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "powerpc64le"
+git-tree-sha1 = "d3d55752efdb785538032f6297d439f3b9d26ffd"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "5783ac563c899010a9ae53cfa20dec19dc6ff4cf9dcbc54ad59237fbcec92d03"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "e304737bf9ac5a2f7ee4cc501781dc11d4cf790d"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[mrfDepth.download]]
+    sha256 = "a8f7c47cab4c3f74a4ff9cc3087781095cf6f69b512c1d58f4fc41b4f316c7d1"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "e2285fb9507d68a6de21b13e9a56e58762d0b9d1"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[mrfDepth.download]]
+    sha256 = "0eeabcaa666db996b424146021573917d7fec4c533e53263fc68edddf78cb2aa"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "a77bcc8161f55153ed06feae3fd9b5a88ef5e62a"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[mrfDepth.download]]
+    sha256 = "0dd1cdb8cc95a2ea82634d580461ccc9d351f67cd8026f665f63022f62638722"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "3dc5594babab75121ca4bd2a15fdfca2c01c5495"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "995efc05396d6b0997eeb1d9e0852cda5d41a4816bba685a5385bbde16cc8400"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "9ae97a159b81782de467fd9105a0ebb72e2e6e80"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "0e629b0e940d94ed37f93ca3a4307800896564415a435bd0dcf924409ed5cfa0"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "952b9b8187b6f144ec77d8f169aa890da1ca8b38"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "d3c372f88b981f540b477a193b8acf24cfea2ddb87a2c2f2974120f6304422b2"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "89a01b030bd117d176f7445e8ba9007148e3813e"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "cfd14c3654dddc1883468d43adb09a6f861463bc4766721507d4adf6c9b3da38"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-musl-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "8b9b48bdb19862d8cffdd91863ea88b7253683e1"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "b15bfb640079d522740c739faf85166e46b0c2ee51cf978d4983e4eaa40affb3"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-musl-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "a28bbaef0e9279d66c1d765b4717768779b29b47"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "f4ee70f1038617c85f957b7fa3cec60adfc175a67d0a72c54c39270c3ce18ad1"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-musl-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "5e988a096021dde6b0b52057d3910671a4172d31"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[mrfDepth.download]]
+    sha256 = "71e05d1df5dfbc13951e5cf09514e348d066092daad718851c8482bd5afc0d0e"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "be3568b80634a4f200ec9e45cfc5a38fc1bde14b"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[mrfDepth.download]]
+    sha256 = "febb60ef0eaee832e5a5d981b14ed9a5981d27f533bd920754a7b80a91a45f8e"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "41050f542fd233394314c6bbceb885be043a6ca3"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[mrfDepth.download]]
+    sha256 = "9ef178125ae2dc55008d4e52787077c3ef5686f6ad802658603c04f8d0f04220"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "05029701e78a90c0a6b93485ba19e9d24104e1ee"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "a72e2156700ae8074e100fba145ff54bd81ab473505ef6f8d47a6a0a194e7ba6"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "e19d2a715a23d6af760c635e34ccb16e8f377f8a"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "39210f4d1f92a7a53fa3054ae2c5875d61cddb7b938f8dbf27d34d30c2f1cd32"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "6d703fa2ee591c68f0f859ae8521811a1e042067"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "b7e89a0449a20de144201bfd54bbc5c5dc60817304e95a7ff20daff058042b1d"
+    url = "https://github.com/mkitti/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-w64-mingw32-libgfortran5.tar.gz"
